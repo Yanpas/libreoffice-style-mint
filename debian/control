@@ -8,7 +8,7 @@ Standards-Version: 3.9.5
 Package: libreoffice-style-mint
 Breaks: mint-themes (<< 1.4.6)
 Replaces: mint-themes (<< 1.4.6)
-Conflicts: libreoffice-style-human
+Conflicts: 
 Provides: libreoffice-style, libreoffice-style-default
 Architecture: all
 Description: Linux Mint theme for LibreOffice.org
